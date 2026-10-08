@@ -1,0 +1,10 @@
+# 网站产物（反向白名单：只推 index.html 与 .gitignore）
+软件/
+建站资料/
+_shots/
+.obsidian/
+log.md
+rule.md
+direction-approved.md
+部署/
+APP/
